@@ -5,6 +5,6 @@ app.get("/", (req, res) => {
   res.send("Hey, I'm a Node.js app!");
 });
 
-app.listen(3000, () => {
+app.listen(3030, () => {
   console.log("Server is up on 3000");
 });
